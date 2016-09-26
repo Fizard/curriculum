@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'curriculum-icons';
-  src:  url('../assets/fonts/curriculum-icons.eot?md8v39');
-  src:  url('../assets/fonts/curriculum-icons.eot?md8v39#iefix') format('embedded-opentype'),
-    url('../assets/fonts/curriculum-icons.ttf?md8v39') format('truetype'),
-    url('../assets/fonts/curriculum-icons.woff?md8v39') format('woff'),
-    url('../assets/fonts/curriculum-icons.svg?md8v39#curriculum-icons') format('svg');
+  src:  url('../assets/fonts/curriculum-icons.eot?k33d2u');
+  src:  url('../assets/fonts/curriculum-icons.eot?k33d2u#iefix') format('embedded-opentype'),
+    url('../assets/fonts/curriculum-icons.ttf?k33d2u') format('truetype'),
+    url('../assets/fonts/curriculum-icons.woff?k33d2u') format('woff'),
+    url('../assets/fonts/curriculum-icons.svg?k33d2u#curriculum-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-[class^="icon-extra-"], [class*=" icon-extra-"] {
+[class^="extra-icon-"], [class*=" extra-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'curriculum-icons' !important;
   speak: none;
@@ -24,118 +24,118 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-extra-home:before {
+.extra-icon-home:before {
   content: "\e900";
 }
-.icon-extra-newspaper:before {
+.extra-icon-newspaper:before {
   content: "\e904";
 }
-.icon-extra-book:before {
+.extra-icon-book:before {
   content: "\e91f";
 }
-.icon-extra-books:before {
+.extra-icon-books:before {
   content: "\e920";
 }
-.icon-extra-file-text:before {
+.extra-icon-file-text:before {
   content: "\e922";
 }
-.icon-extra-price-tags:before {
+.extra-icon-price-tags:before {
   content: "\e936";
 }
-.icon-extra-address-book:before {
+.extra-icon-address-book:before {
   content: "\e944";
 }
-.icon-extra-pushpin:before {
+.extra-icon-pushpin:before {
   content: "\e946";
 }
-.icon-extra-stopwatch:before {
+.extra-icon-stopwatch:before {
   content: "\e952";
 }
-.icon-extra-display:before {
+.extra-icon-display:before {
   content: "\e956";
 }
-.icon-extra-mobile2:before {
+.extra-icon-mobile2:before {
   content: "\e959";
 }
-.icon-extra-drawer:before {
+.extra-icon-drawer:before {
   content: "\e95c";
 }
-.icon-extra-database:before {
+.extra-icon-database:before {
   content: "\e964";
 }
-.icon-extra-bubbles4:before {
+.extra-icon-bubbles4:before {
   content: "\e970";
 }
-.icon-extra-user-tie:before {
+.extra-icon-user-tie:before {
   content: "\e976";
 }
-.icon-extra-quotes-left:before {
+.extra-icon-quotes-left:before {
   content: "\e977";
 }
-.icon-extra-quotes-right:before {
+.extra-icon-quotes-right:before {
   content: "\e978";
 }
-.icon-extra-aid-kit:before {
+.extra-icon-aid-kit:before {
   content: "\e998";
 }
-.icon-extra-menu:before {
+.extra-icon-menu:before {
   content: "\e9bd";
 }
-.icon-extra-link:before {
+.extra-icon-link:before {
   content: "\e9cb";
 }
-.icon-extra-embed2:before {
+.extra-icon-embed2:before {
   content: "\ea80";
 }
-.icon-extra-mail4:before {
+.extra-icon-mail4:before {
   content: "\ea86";
 }
-.icon-extra-google-plus:before {
+.extra-icon-google-plus:before {
   content: "\ea8b";
 }
-.icon-extra-facebook:before {
+.extra-icon-facebook:before {
   content: "\ea90";
 }
-.icon-extra-instagram:before {
+.extra-icon-instagram:before {
   content: "\ea92";
 }
-.icon-extra-whatsapp:before {
+.extra-icon-whatsapp:before {
   content: "\ea93";
 }
-.icon-extra-telegram:before {
+.extra-icon-telegram:before {
   content: "\ea95";
 }
-.icon-extra-twitter:before {
+.extra-icon-twitter:before {
   content: "\ea96";
 }
-.icon-extra-tux:before {
+.extra-icon-tux:before {
   content: "\eabd";
 }
-.icon-extra-appleinc:before {
+.extra-icon-appleinc:before {
   content: "\eabe";
 }
-.icon-extra-android:before {
+.extra-icon-android:before {
   content: "\eac0";
 }
-.icon-extra-windows8:before {
+.extra-icon-windows8:before {
   content: "\eac2";
 }
-.icon-extra-linkedin2:before {
+.extra-icon-linkedin2:before {
   content: "\eaca";
 }
-.icon-extra-pinterest2:before {
+.extra-icon-pinterest2:before {
   content: "\ead2";
 }
-.icon-extra-foursquare:before {
+.extra-icon-foursquare:before {
   content: "\ead6";
 }
-.icon-extra-chrome:before {
+.extra-icon-chrome:before {
   content: "\ead9";
 }
-.icon-extra-firefox:before {
+.extra-icon-firefox:before {
   content: "\eada";
 }
-.icon-extra-edge:before {
+.extra-icon-edge:before {
   content: "\eadc";
 }
 
