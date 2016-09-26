@@ -1,0 +1,219 @@
+@import "variables";
+
+@font-face {
+  font-family: 'curriculum-icons';
+  src:  url('#{$icomoon-font-path}/curriculum-icons.eot?8xibrm');
+  src:  url('#{$icomoon-font-path}/curriculum-icons.eot?8xibrm#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/curriculum-icons.ttf?8xibrm') format('truetype'),
+    url('#{$icomoon-font-path}/curriculum-icons.woff?8xibrm') format('woff'),
+    url('#{$icomoon-font-path}/curriculum-icons.svg?8xibrm#curriculum-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="curriculum-icons-"], [class*=" curriculum-icons-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'curriculum-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.curriculum-icons-home {
+  &:before {
+    content: $curriculum-icons-home;
+  }
+}
+.curriculum-icons-newspaper {
+  &:before {
+    content: $curriculum-icons-newspaper;
+  }
+}
+.curriculum-icons-book {
+  &:before {
+    content: $curriculum-icons-book;
+  }
+}
+.curriculum-icons-books {
+  &:before {
+    content: $curriculum-icons-books;
+  }
+}
+.curriculum-icons-file-text {
+  &:before {
+    content: $curriculum-icons-file-text;
+  }
+}
+.curriculum-icons-price-tags {
+  &:before {
+    content: $curriculum-icons-price-tags;
+  }
+}
+.curriculum-icons-address-book {
+  &:before {
+    content: $curriculum-icons-address-book;
+  }
+}
+.curriculum-icons-pushpin {
+  &:before {
+    content: $curriculum-icons-pushpin;
+  }
+}
+.curriculum-icons-stopwatch {
+  &:before {
+    content: $curriculum-icons-stopwatch;
+  }
+}
+.curriculum-icons-display {
+  &:before {
+    content: $curriculum-icons-display;
+  }
+}
+.curriculum-icons-mobile2 {
+  &:before {
+    content: $curriculum-icons-mobile2;
+  }
+}
+.curriculum-icons-drawer {
+  &:before {
+    content: $curriculum-icons-drawer;
+  }
+}
+.curriculum-icons-database {
+  &:before {
+    content: $curriculum-icons-database;
+  }
+}
+.curriculum-icons-bubbles4 {
+  &:before {
+    content: $curriculum-icons-bubbles4;
+  }
+}
+.curriculum-icons-user-tie {
+  &:before {
+    content: $curriculum-icons-user-tie;
+  }
+}
+.curriculum-icons-quotes-left {
+  &:before {
+    content: $curriculum-icons-quotes-left;
+  }
+}
+.curriculum-icons-quotes-right {
+  &:before {
+    content: $curriculum-icons-quotes-right;
+  }
+}
+.curriculum-icons-aid-kit {
+  &:before {
+    content: $curriculum-icons-aid-kit;
+  }
+}
+.curriculum-icons-menu {
+  &:before {
+    content: $curriculum-icons-menu;
+  }
+}
+.curriculum-icons-link {
+  &:before {
+    content: $curriculum-icons-link;
+  }
+}
+.curriculum-icons-embed2 {
+  &:before {
+    content: $curriculum-icons-embed2;
+  }
+}
+.curriculum-icons-mail4 {
+  &:before {
+    content: $curriculum-icons-mail4;
+  }
+}
+.curriculum-icons-google-plus {
+  &:before {
+    content: $curriculum-icons-google-plus;
+  }
+}
+.curriculum-icons-facebook {
+  &:before {
+    content: $curriculum-icons-facebook;
+  }
+}
+.curriculum-icons-instagram {
+  &:before {
+    content: $curriculum-icons-instagram;
+  }
+}
+.curriculum-icons-whatsapp {
+  &:before {
+    content: $curriculum-icons-whatsapp;
+  }
+}
+.curriculum-icons-telegram {
+  &:before {
+    content: $curriculum-icons-telegram;
+  }
+}
+.curriculum-icons-twitter {
+  &:before {
+    content: $curriculum-icons-twitter;
+  }
+}
+.curriculum-icons-tux {
+  &:before {
+    content: $curriculum-icons-tux;
+  }
+}
+.curriculum-icons-appleinc {
+  &:before {
+    content: $curriculum-icons-appleinc;
+  }
+}
+.curriculum-icons-android {
+  &:before {
+    content: $curriculum-icons-android;
+  }
+}
+.curriculum-icons-windows8 {
+  &:before {
+    content: $curriculum-icons-windows8;
+  }
+}
+.curriculum-icons-linkedin2 {
+  &:before {
+    content: $curriculum-icons-linkedin2;
+  }
+}
+.curriculum-icons-pinterest2 {
+  &:before {
+    content: $curriculum-icons-pinterest2;
+  }
+}
+.curriculum-icons-foursquare {
+  &:before {
+    content: $curriculum-icons-foursquare;
+  }
+}
+.curriculum-icons-chrome {
+  &:before {
+    content: $curriculum-icons-chrome;
+  }
+}
+.curriculum-icons-firefox {
+  &:before {
+    content: $curriculum-icons-firefox;
+  }
+}
+.curriculum-icons-edge {
+  &:before {
+    content: $curriculum-icons-edge;
+  }
+}
+
