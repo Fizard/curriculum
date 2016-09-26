@@ -2,16 +2,16 @@
 
 @font-face {
   font-family: 'curriculum-icons';
-  src:  url('#{$icomoon-font-path}/curriculum-icons.eot?8xibrm');
-  src:  url('#{$icomoon-font-path}/curriculum-icons.eot?8xibrm#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/curriculum-icons.ttf?8xibrm') format('truetype'),
-    url('#{$icomoon-font-path}/curriculum-icons.woff?8xibrm') format('woff'),
-    url('#{$icomoon-font-path}/curriculum-icons.svg?8xibrm#curriculum-icons') format('svg');
+  src:  url('../assets/fonts//curriculum-icons.eot?82its1');
+  src:  url('../assets/fonts//curriculum-icons.eot?82its1#iefix') format('embedded-opentype'),
+    url('../assets/fonts//curriculum-icons.ttf?82its1') format('truetype'),
+    url('../assets/fonts//curriculum-icons.woff?82its1') format('woff'),
+    url('../assets/fonts//curriculum-icons.svg?82its1#curriculum-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-[class^="curriculum-icons-"], [class*=" curriculum-icons-"] {
+[class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'curriculum-icons' !important;
   speak: none;
@@ -26,194 +26,194 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.curriculum-icons-home {
+.icon-home {
   &:before {
-    content: $curriculum-icons-home;
+    content: $icon-home;
   }
 }
-.curriculum-icons-newspaper {
+.icon-newspaper {
   &:before {
-    content: $curriculum-icons-newspaper;
+    content: $icon-newspaper;
   }
 }
-.curriculum-icons-book {
+.icon-book {
   &:before {
-    content: $curriculum-icons-book;
+    content: $icon-book;
   }
 }
-.curriculum-icons-books {
+.icon-books {
   &:before {
-    content: $curriculum-icons-books;
+    content: $icon-books;
   }
 }
-.curriculum-icons-file-text {
+.icon-file-text {
   &:before {
-    content: $curriculum-icons-file-text;
+    content: $icon-file-text;
   }
 }
-.curriculum-icons-price-tags {
+.icon-price-tags {
   &:before {
-    content: $curriculum-icons-price-tags;
+    content: $icon-price-tags;
   }
 }
-.curriculum-icons-address-book {
+.icon-address-book {
   &:before {
-    content: $curriculum-icons-address-book;
+    content: $icon-address-book;
   }
 }
-.curriculum-icons-pushpin {
+.icon-pushpin {
   &:before {
-    content: $curriculum-icons-pushpin;
+    content: $icon-pushpin;
   }
 }
-.curriculum-icons-stopwatch {
+.icon-stopwatch {
   &:before {
-    content: $curriculum-icons-stopwatch;
+    content: $icon-stopwatch;
   }
 }
-.curriculum-icons-display {
+.icon-display {
   &:before {
-    content: $curriculum-icons-display;
+    content: $icon-display;
   }
 }
-.curriculum-icons-mobile2 {
+.icon-mobile2 {
   &:before {
-    content: $curriculum-icons-mobile2;
+    content: $icon-mobile2;
   }
 }
-.curriculum-icons-drawer {
+.icon-drawer {
   &:before {
-    content: $curriculum-icons-drawer;
+    content: $icon-drawer;
   }
 }
-.curriculum-icons-database {
+.icon-database {
   &:before {
-    content: $curriculum-icons-database;
+    content: $icon-database;
   }
 }
-.curriculum-icons-bubbles4 {
+.icon-bubbles4 {
   &:before {
-    content: $curriculum-icons-bubbles4;
+    content: $icon-bubbles4;
   }
 }
-.curriculum-icons-user-tie {
+.icon-user-tie {
   &:before {
-    content: $curriculum-icons-user-tie;
+    content: $icon-user-tie;
   }
 }
-.curriculum-icons-quotes-left {
+.icon-quotes-left {
   &:before {
-    content: $curriculum-icons-quotes-left;
+    content: $icon-quotes-left;
   }
 }
-.curriculum-icons-quotes-right {
+.icon-quotes-right {
   &:before {
-    content: $curriculum-icons-quotes-right;
+    content: $icon-quotes-right;
   }
 }
-.curriculum-icons-aid-kit {
+.icon-aid-kit {
   &:before {
-    content: $curriculum-icons-aid-kit;
+    content: $icon-aid-kit;
   }
 }
-.curriculum-icons-menu {
+.icon-menu {
   &:before {
-    content: $curriculum-icons-menu;
+    content: $icon-menu;
   }
 }
-.curriculum-icons-link {
+.icon-link {
   &:before {
-    content: $curriculum-icons-link;
+    content: $icon-link;
   }
 }
-.curriculum-icons-embed2 {
+.icon-embed2 {
   &:before {
-    content: $curriculum-icons-embed2;
+    content: $icon-embed2;
   }
 }
-.curriculum-icons-mail4 {
+.icon-mail4 {
   &:before {
-    content: $curriculum-icons-mail4;
+    content: $icon-mail4;
   }
 }
-.curriculum-icons-google-plus {
+.icon-google-plus {
   &:before {
-    content: $curriculum-icons-google-plus;
+    content: $icon-google-plus;
   }
 }
-.curriculum-icons-facebook {
+.icon-facebook {
   &:before {
-    content: $curriculum-icons-facebook;
+    content: $icon-facebook;
   }
 }
-.curriculum-icons-instagram {
+.icon-instagram {
   &:before {
-    content: $curriculum-icons-instagram;
+    content: $icon-instagram;
   }
 }
-.curriculum-icons-whatsapp {
+.icon-whatsapp {
   &:before {
-    content: $curriculum-icons-whatsapp;
+    content: $icon-whatsapp;
   }
 }
-.curriculum-icons-telegram {
+.icon-telegram {
   &:before {
-    content: $curriculum-icons-telegram;
+    content: $icon-telegram;
   }
 }
-.curriculum-icons-twitter {
+.icon-twitter {
   &:before {
-    content: $curriculum-icons-twitter;
+    content: $icon-twitter;
   }
 }
-.curriculum-icons-tux {
+.icon-tux {
   &:before {
-    content: $curriculum-icons-tux;
+    content: $icon-tux;
   }
 }
-.curriculum-icons-appleinc {
+.icon-appleinc {
   &:before {
-    content: $curriculum-icons-appleinc;
+    content: $icon-appleinc;
   }
 }
-.curriculum-icons-android {
+.icon-android {
   &:before {
-    content: $curriculum-icons-android;
+    content: $icon-android;
   }
 }
-.curriculum-icons-windows8 {
+.icon-windows8 {
   &:before {
-    content: $curriculum-icons-windows8;
+    content: $icon-windows8;
   }
 }
-.curriculum-icons-linkedin2 {
+.icon-linkedin2 {
   &:before {
-    content: $curriculum-icons-linkedin2;
+    content: $icon-linkedin2;
   }
 }
-.curriculum-icons-pinterest2 {
+.icon-pinterest2 {
   &:before {
-    content: $curriculum-icons-pinterest2;
+    content: $icon-pinterest2;
   }
 }
-.curriculum-icons-foursquare {
+.icon-foursquare {
   &:before {
-    content: $curriculum-icons-foursquare;
+    content: $icon-foursquare;
   }
 }
-.curriculum-icons-chrome {
+.icon-chrome {
   &:before {
-    content: $curriculum-icons-chrome;
+    content: $icon-chrome;
   }
 }
-.curriculum-icons-firefox {
+.icon-firefox {
   &:before {
-    content: $curriculum-icons-firefox;
+    content: $icon-firefox;
   }
 }
-.curriculum-icons-edge {
+.icon-edge {
   &:before {
-    content: $curriculum-icons-edge;
+    content: $icon-edge;
   }
 }
 
